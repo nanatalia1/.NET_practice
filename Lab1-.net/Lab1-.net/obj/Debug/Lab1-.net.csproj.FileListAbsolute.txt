@@ -1,0 +1,7 @@
+C:\Users\48516\Desktop\platformy technologiczne\Lab1-.net\Lab1-.net\bin\Debug\Lab1-.net.exe.config
+C:\Users\48516\Desktop\platformy technologiczne\Lab1-.net\Lab1-.net\bin\Debug\Lab1-.net.exe
+C:\Users\48516\Desktop\platformy technologiczne\Lab1-.net\Lab1-.net\bin\Debug\Lab1-.net.pdb
+C:\Users\48516\Desktop\platformy technologiczne\Lab1-.net\Lab1-.net\obj\Debug\Lab1-.net.csproj.AssemblyReference.cache
+C:\Users\48516\Desktop\platformy technologiczne\Lab1-.net\Lab1-.net\obj\Debug\Lab1-.net.csproj.CoreCompileInputs.cache
+C:\Users\48516\Desktop\platformy technologiczne\Lab1-.net\Lab1-.net\obj\Debug\Lab1-.net.exe
+C:\Users\48516\Desktop\platformy technologiczne\Lab1-.net\Lab1-.net\obj\Debug\Lab1-.net.pdb
