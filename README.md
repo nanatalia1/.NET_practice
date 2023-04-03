@@ -6,10 +6,10 @@ LAB1:
 - serialization and deserialization
 
 LAB2:
--WPF
--application browsing and editing a structure of files from a catalogue
+- WPF
+- application browsing and editing a structure of files from a catalogue
 
 LAB3:
--LINQ queries
--XML serialization and deserialization
--XHTML
+- LINQ queries
+- XML serialization and deserialization
+- XHTML
